@@ -55,6 +55,7 @@ Deployment Date: [To be added]
 Deployer Address: [To be added]
 This project is part of the growing Stacks ecosystem and contributes to the broader vision of a decentralized, user-owned internet built on Bitcoin.
 
-##
+## Screenshot
+ST3RGW343EVV3GDXMCM37K6KJFPHPR8XX31MKQYMQ.SignatureVerification
 <img width="1919" height="876" alt="Screenshot 2025-08-22 163838" src="https://github.com/user-attachments/assets/bebf5f86-c7eb-4f90-988d-6c6b1ffa5a3a" />
 
